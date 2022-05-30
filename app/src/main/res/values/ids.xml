@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ratingTextView" type="id" />
+    <item name="pricePerKmTextView" type="id" />
+    <item name="pricePerKm" type="id" />
+    <item name="rating" type="id" />
+</resources>
